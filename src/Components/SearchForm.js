@@ -12,7 +12,7 @@ const SearchForm = () => {
   return (
     <View style={styles.card}>
       <Text style={styles.title}>
-        Search the best prices for your next trip
+        Search the best prices for your next trip.
       </Text>
       <TextInput
         value={from}
